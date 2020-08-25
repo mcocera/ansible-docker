@@ -1,3 +1,5 @@
+#mcocera
+# only added the apk necessaries for me
 # geektechstuff
 # using a lot of https://hub.docker.com/r/philm/ansible_playbook/dockerfile/
 
